@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96521396/240423253-aef68c2a-47a6-43bc-b12e-b897c6339fd0.gif" alt="k1tbyte" />
+  <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96521396/240424117-6eed29f4-447b-40b4-8cd5-a178aa04c46e.gif" alt="k1tbyte" />
 </p>
 <h1></h1>
 <h3 align="center">Languages and tools:</h3>
