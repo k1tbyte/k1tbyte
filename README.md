@@ -10,11 +10,12 @@ I'm passionate about building robust and scalable web applications across the fu
 
 <div align="center">
   
-  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1tbyte&theme=github_dark)
+  ![Profile Details](https://github-stats-iota-ruddy.vercel.app/api/cards/profile-details?username=k1tbyte&theme=github_dark)
+
   
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1tbyte&theme=github_dark" alt="GitHub Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k1tbyte&theme=github_dark" alt="Top Languages" />
+    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/stats?username=k1tbyte&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/repos-per-language?username=k1tbyte&theme=github_dark" alt="Top Languages" />
   </p>
 </div>
 
