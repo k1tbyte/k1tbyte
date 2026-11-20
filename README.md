@@ -8,6 +8,12 @@ Questions or ideas? Open an issue [here](https://github.com/k1tbyte/k1tbyte/issu
 
 </div>
 
+<div align="center">
+
+Looking for **Wand Enhancer**? Check out **[Impulse](https://github.com/tweak-for-me/impulse)**
+
+</div>
+
 ---
 
 <p align="center">
